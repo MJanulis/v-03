@@ -1,5 +1,5 @@
 
-#include "biblioteka.h"
+#include "lib.h"
 #include "strukturos.h"
 #include "funkcijos.h"
 
